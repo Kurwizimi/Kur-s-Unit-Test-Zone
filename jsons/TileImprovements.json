@@ -1,6 +1,6 @@
 [
   {
-        "name": "Karez",
+        "name": "Drylands Karez",
         "terrainsCanBeBuiltOn": ["River","Desert"],
         "food": 2,
         "production": 1,

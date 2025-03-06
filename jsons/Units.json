@@ -1,0 +1,297 @@
+[
+	{
+		"name": "Myinsi",
+		"unitType": "Mounted",
+		"uniqueTo": "Burma",
+		"replaces": "Cavalry",
+		"movement": 4,
+		"strength": 29,
+		"cost": 190,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"obsolete": "Combustion"
+		"requiredTech": "Printing Press",
+		"requiredResource": "Horses",
+		"promotions": ["Besiege"],
+	}
+	{
+		"name": "Goum",
+		"unitType": "Mounted",
+		"uniqueTo": "Burma",
+		"replaces": "Scout",
+		"movement": 4,
+		"strength": 29,
+		"cost": 2,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"promotions": ["Besiege"],
+	}
+
+	{
+		"name": "Jahazi",
+		"unitType": "Melee Water",
+		"uniqueTo": "Swahili",
+		"replaces": "Trireme",
+		"movement": 5,
+		"cost": 35,
+		"strength": 7,
+		"requiredTech": "Sailing",
+		"obsolete": "Astronomy",
+		"uniques":["Can transform to [Galleass] <starting from the [Medieval era]>","Cannot enter ocean tiles","May create improvements on water resources"]
+	}
+	{
+		"name": "Jazayerchiha",
+		"unitType": "Mounted",
+		"uniqueTo": "Swahili",
+		"replaces": "Scout",
+		"movement": 4,
+		"strength": 29,
+		"cost": 2,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"promotions": ["Besiege"],
+	}
+
+	{
+		"name": "Zenata Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Al Andalus",
+		"replaces": "Knight",
+		"movement": 4,
+		"strength": 25,
+		"cost": 125,
+		"obsolete": "Military Science"
+		"requiredTech": "Chivalry",
+		"uniques":["No defensive terrain bonus"],
+		"requiredResource": "Horses",
+		"promotions": ["Amphibious","Home Sweet Home"],
+	}
+
+	{
+		"name": "Clibanarii",
+		"unitType": "Mounted",
+		"uniqueTo": "The Sassanid Empire",
+		"replaces": "Horseman",
+		"movement": 3,
+		"strength": 12,
+		"cost": 75,
+		"obsolete": "Chivalry"
+		"uniques":["No defensive terrain bonus","[+5]% Gold cost of upgrading"],
+		"requiredTech": "Horseback Riding",
+		"requiredResource": "Horses",
+		"promotions": ["Charge"],
+	}
+
+	{
+		"name": "Dervish Cavalry",
+		"unitType": "Mounted",
+		"uniqueTo": "Somalia",
+		"replaces": "Cavalry",
+		"movement": 4,
+		"strength": 34,
+		"cost": 150,
+		"uniques":["Can move immediately once bought","May capture killed [Wounded] units","Can move after attacking"],
+		"requiredTech": "Military Science",
+		"obsolete": "Combustion",
+		"requiredResource": "Horses",
+	},
+
+		{
+		"name": "Lada'kwe",
+		"unitType": "Sword",
+		"uniqueTo": "Pueblo",
+		"replaces": "Warrior",
+		"strength": 12,
+		"cost": 45,
+		"movement": 2,
+		"obsolete": "Gunpowder"
+		"uniques":["Earn [150]% of killed [Wounded] unit's [Cost] as [Gold]"],
+	}
+
+	{
+		"name": "Gajnal",
+		"unitType": "Siege",
+		"uniqueTo": "The Mughals",
+		"replaces": "Cannon",
+		"movement": 2,
+		"strength": 20,
+		"rangedStrength": 25,
+		"range": 2,
+		"cost": 185,
+		"requiredTech": "Chemistry",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Dynamite",
+		"uniques": [,"No defensive terrain bonus","Must set up to ranged attack","[150]% Strength <vs cities>"],
+		"attackSound": "cannon"
+		"promotions": ["Shock I","Shock II"],
+	},
+
+	{
+		"name": "Pitati",
+		"unitType": "Archery",
+		"uniqueTo": "Kush",
+		"replaces": "Archer",
+		"movement": 3,
+		"strength": 5,
+		"rangedStrength": 12,
+		"range": 2,
+		"cost": 50,
+		"requiredTech": "Archery",
+		"upgradesTo": "Composite Bowman",
+		"obsoleteTech": "Industrialization",
+		"promotions": ["Sentry"],
+	},
+
+	{
+		"name": "Bireme",
+		"unitType": "Melee Water",
+		"uniqueTo": "Phoenicia",
+		"replaces": "Trireme",
+		"movement": 3,
+		"cost": 45,
+		"strength": 17,
+		"requiredTech": "Sailing",
+		"obsolete": "Astronomy",
+		"uniques":["Cannot enter ocean tiles"]
+	}
+
+	{
+		"name": "Al Sultanah",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Oman",
+		"replaces": "Frigate",
+		"movement": 8,
+		"cost": 195,
+		"strength": 25,
+		"rangedStrength": 28,
+		"requiredTech": "Navigation",
+		"obsolete": "Electronics",
+		"uniques":["[+3] Sight"]
+	}
+
+
+	{
+		"name": "Katipunan",
+		"unitType": "Gunpowder",
+		"uniqueTo": "The Philippines",
+		"replaces": "Rifleman",
+		"strength": 39,
+		"cost": 225,
+		"movement": 2,
+		"obsolete": "Replaceable Parts"
+		"uniques":["[+50]% Strength decreasing with distance from the capital"],
+	}
+
+	{
+    	    	"name": "Isienmwenro",
+      		"unitType": "Sword",
+		"uniqueTo": "Benin",
+		"replaces": "Pikeman",
+        	"movement": 3,
+        	"strength": 16,
+        	"cost": 90,
+        	"requiredTech": "Civil Service",
+        	"uniques": ["[+50]% Strength <vs [Mounted] units>",
+			    "[+25]% to Flank Attack bonuses","Ignores Zone of Control"],
+        	"upgradesTo": "Lancer",
+        	"obsoleteTech": "Metallurgy",
+        	"attackSound": "metalhit"
+   	 },
+
+	 {
+		"name": "Herald",
+      		"unitType": "Civilian",
+		 "uniqueTo": "Burgundy",
+		"replaces": "Great Merchant",
+		"movement": 4
+        	"uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [60] Influence",
+            		    "Can instantly construct a [Customs house] improvement <by consuming this unit>",
+			    "Can instantly construct a [Landmark] improvement <by consuming this unit>",
+			    "[Great Artist] is earned [100]% faster",
+			    "May enter foreign tiles without open borders",
+            		    "Is part of Great Person group [Merchant]",
+            		    "Unbuildable",
+            		    "Uncapturable"],
+   	 },
+
+
+	{
+    	    	"name": "Fyrd",
+      		"unitType": "Sword",
+		"uniqueTo": "The Anglo-Saxons",
+		"replaces": "Pikeman",
+        	"movement": 2,
+        	"strength": 16,
+        	"cost": 75,
+        	"requiredTech": "Civil Service",
+        	"uniques": ["[+50]% Strength <vs [Mounted] units>",
+			    "[+20]% Strength <for every adjacent [River]>"],
+        	"upgradesTo": "Lancer",
+        	"obsoleteTech": "Metallurgy",
+        	"attackSound": "metalhit"
+   	 },
+
+	{
+		"name": "Canoe",
+		"unitType": "Melee Water",
+		"uniqueTo": "Calusa",
+		"replaces": "Trireme",
+		"movement": 4,
+		"cost": 35,
+		"strength": 8,
+		"requiredTech": "Sailing",
+		"obsolete": "Astronomy",
+		"uniques":["Cannot enter ocean tiles",
+			   "[+15]% Strength bonus for [{Military}] units within [1] tiles",
+			   "Withdraws before melee combat <with [50]% chance>"]
+	}
+
+	{
+        	"name": "Yodhaya",
+        	"unitType": "Sword",
+		"uniqueTo": "Sri Lanka",
+		"replaces": "Longswordsman",
+        	"movement": 2,
+        	"strength": 21,
+        	"cost": 120,
+        	"requiredTech": "Metal Casting",
+        	"upgradesTo": "Musketman",
+        	"obsoleteTech": "Gunpowder",
+		"uniques":["[This Unit] heals [75] HP <upon ending a turn in a [Fresh Water] tile>"],
+        	"requiredResource": "Iron",
+        	"attackSound": "metalhit"
+   	 },
+
+	{
+        	"name": "Tolu-Batyr",
+        	"unitType": "Mounted",
+		"uniqueTo": "Kazakhstan",
+		"replaces": "Horseman",
+        	"movement": 4,
+        	"strength": 15,
+        	"cost": 75,
+        	"requiredTech": "Horseback Riding",
+        	"requiredResource": "Horses",
+        	"upgradesTo": "Knight",
+        	"obsoleteTech": "Chivalry",
+        	"uniques": ["Can move after attacking",
+            		    "No defensive terrain bonus",
+            		    "[-33]% Strength <vs cities> <when attacking>",
+			    "[+25] HP when healing <in [Foreign Land] tiles>"],
+        	"attackSound": "horse"
+    },
+
+	{
+        	"name": "Axeman",
+		"uniqueTo": "Scythia",
+		"replaces": "Longswordsman",
+        	"unitType": "Sword",
+        	"movement": 3,
+        	"strength": 19,
+        	"cost": 120,
+        	"requiredTech": "Horseback Riding",
+        	"upgradesTo": "Musketman",
+		"promotions": ["Shock I"],
+        	"obsoleteTech": "Gunpowder",
+        	"attackSound": "metalhit"
+    	},
+    
+
+]

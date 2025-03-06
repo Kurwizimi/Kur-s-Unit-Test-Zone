@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Karez Builders",
+		"uniques": ["Can instantly construct a [Karez] improvement <removing the [Karez Builders] promotion/status>"],
+		"row": 140,
+      		"column": 0,
+	}
+
+	{
+		"name": "River of Grass",
+		"uniques": ["Turn this tile into a [Marsh] tile <in [{non-[Strategic resource]} {non-[Luxury resource]} {non-[Marsh]} {Land}] tiles> <for all movement>","Comment [on Grassland]"]
+		"row": 130,
+      		"column": 0,
+	}
+
+	{
+		"name": "Khans of the Steppe",
+		"uniques": ["[+15] HP when healing <in [Foreign Land] tiles>"]
+		"row": 120,
+      		"column": 0,
+	}
+
+	{
+		"name": "Great Road",
+		"uniques": ["[This Unit] gains [2] movement <in [Hill] tiles>"]
+		"row": 110,
+      		"column": 0,
+	}
+
+
+
+
+
+
+
+
+
+
+
+]

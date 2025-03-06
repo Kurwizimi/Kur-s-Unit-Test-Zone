@@ -1,0 +1,852 @@
+[
+	{
+		"name": "Burma",
+		"leaderName": "Bayinnaung",
+		"adjective": ["Burmese"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		"favoredReligion":"Buddhism",
+		
+		"startIntroPart1": "Considered one of the three greatest kings of Burma, along with Anawrahta and Alaungpaya, Bayinnaung Kyawhtin Nawrahta was king of Toungoo Dynasty of Burma from 1550 to 1581. During his 31-year reign, which has been called 'the greatest explosion of human energy ever seen in Burma', Bayinnaung assembled the largest empire in the history of Southeast Asia, which included much of modern-day Burma, Chinese Shan states, Lan Na, Lan Xang, Manipur and Siam.",
+		
+		"declaringWar": "You will give me allegience, even if I must force you to do it myself!",
+		"attacked": "You must be a fool to think my empire will be so easily brought to heel.",
+		"defeated": "How is Burma now a vassal of such a feeble nation? Why must fate bring the worst upon me?",
+		"introduction": "You have the honour of meeting the King of Burma, conqurer of the Ten Directions! Do you come bearing tribute for my illustrious Empire?",
+		
+		"neutralHello": "Maingalarpar (Greetings)",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Pyaww nyantar bhar ko lohkyintar lell? (What do you want?)",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "I have to say, you resistance was quite impressive indeed",
+		"tradeRequest": "Such lack of ambition, maybe some of Burma's finest goods will make you see the fruits of war.",
+
+		"spyNames": ["Thandar","Htut","So","Thiri","Sandy","Htin","Kyaw","Ei","Soe","Zaw"],
+
+
+		"uniqueName": "Ahmuban Conscription",
+		"uniques": ["[+1 Production] from [All] tiles [in all cities] <when at war>",
+			    "[+10]% Production when constructing [{Military} {Land}] units [in all cities] <when at war>",
+			    "[1] free [Myinsi] units appear <upon entering the [Renaissance era]>"],
+		
+		"outerColor": [26, 32, 138],
+		"innerColor": [36, 158, 53],
+		"cities": ["Yangon","Mandalay","Naypyidaw","Mawlamyine","Taunggyi","Bago","Monywa","Myitkyina","Pathein","Sittwe",
+			   "Pyay","Pakokku","Myeik","Sandoway","Ingapu","Bassein","Prome","Martaban","Toungoo","Moulmein"]
+	},
+
+	{
+		"name": "Swahili",
+		"leaderName": "Al-Hasan ibn Suleiman",
+		"adjective": ["Swahili"],
+		"startBias": ["Coast"],
+		"favoredReligion":"Islam",
+		
+		"startIntroPart1": "Sultan al-Hasan ibn Suleiman, often referred to as 'Al-Mawahib' ('father of gifts'), was the ruler of the city-state of Kilwa, from 1310 until 1333. Sultan al-Hasan ibn Suleiman is reported to have have been a generous and intelligent man. Numerous construction projects took place during his reign, including the building of the Palace of Husuni Kubwa and a significant extension to the Great Mosque of Kilwa.",
+		
+		"declaringWar": "Your cities are lacking true beauty only my nation can provide. They shall be rebuilt by our grand fleet!",
+		"attacked": "You should make your empire look nice insead of destroying ours.",
+		"defeated": "The Swahilli may now be enslaved, but the beauty of our works shall stand the test of time.",
+		"introduction": "I welcome you to the magnificent empire of the Swahili. Our cities stand as gems on the oceans edge. ",
+		
+		"neutralHello": "Muda wa biashara? (Are you here to trade?)",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Una bidhaa gani? (What goods do you have?)",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "The Swahili Empire shall stand for another day ... and so shall yours.",
+		"tradeRequest": "May we interest you in a trade deal?",
+
+		"spyNames": ["Imani","Leila","Baraka","Omar","Adia","Anahita","Amani","Ahmad","Akida","Bijan"],
+
+
+		"uniqueName": "Coral Harbours",
+		"uniques": ["[+2 Gold] from every [Fishing Boats]",
+			    "[+2 Production] from [Atoll] tiles [in all cities]",
+			    "[+1 Culture] from every [Water resource]"],
+		
+		"outerColor": [7,81,146],   //[8, 91, 163],
+		"innerColor": [209,159,60], //[204, 149, 39],
+		"cities": ["Kilwa Kisinawi","Mombasa","Zanzebar","Lamu","Sofala","Bagamoyo","Pate","Mzizima","Lindi","Faza",
+			   "Angoche","Songo Mnara","Malindi","Quelimane","Merca","Mafia","Inhambane","Pemba","Comoro"]
+	},
+
+
+	{
+		"name": "Al Andalus",
+		"leaderName": "Abd al-Rahman III",
+		"adjective": ["Andalusian"],
+		"startBias": ["Coast"],
+		"favoredReligion":"Islam",
+		
+		"startIntroPart1": "Abd al-Rahman III was an Umayyad prince who reigned as Emir of Cordoba, and later Caliph of Cordoba, from 912 to 961 CE. His reign is remembered as a golden age of Muslim Spain and Umayyad rule, epitomized by his declaration of the second Umayyad Caliphate in 929 CE. He re-established one unified Muslim state in Spain and presided over the expansion of his capital at Cordoba as well as the founding of the impressive caliphal palace at Madinat al-Zahra.",
+		
+		"declaringWar": "I have crushed infidels, and I have crushed rebels. Now, I shall crush you.",
+		"attacked": "Our fortressess may be beautifull, but theey are fortressess nontheless. You have underestimated our strength greatly.",
+		"defeated": "I thought my reign was ordained by God. I thought Andalus shall be blessed with an eternalGolden Age. And now I am humbled by you, and by God.",
+		"introduction": "I, Caliph Abd al-Rahman III, wlcome to Al-Andalus. Would you like to walk with me in my gardens? We have much to discuss. ",
+		
+		"neutralHello": "Welcome. stranger",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Here to marvel at our greatness?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "Our forts still stand strong, and the heart of the Andalusian peoples still beats.",
+		"tradeRequest": "We have an interest in some of your treasures, should we trade?",
+
+		"spyNames": ["Alayza","Buchra","Amira","Ayoub","Adillah","Amine","Ahmed","Isa","Suleiman","Hajar"],
+
+
+		"uniqueName": "Convivencia",
+		"uniques": ["[+10]% [Science] [in all cities] <after founding a religion>","[+10]% [Science] [in all cities] <after enhancing a religion>",
+			    "[+10]% [Culture] [in all cities] <after founding a religion>","[+10]% [Culture] [in all cities] <after enhancing a religion>",
+			    "Free [Missionary] appears <upon declaring friendship>"],
+		
+		"outerColor": [181, 171, 31],
+		"innerColor": [179, 29, 49],
+		"cities": ["Qurtubah","Gharnatah","Tulaytulah","Zharagoztha","Ishbiliyyah","Kulumriyya","Segovia","Tangier","Algeciras","Tarragona",
+		           "Teruel","Almeria","Leon","Zamora","Mida","Lugo","Alicante","Cadiz","Merida","Huelva",
+			   "Ibiza","Las Palmas","Tenerife"]
+	},
+
+	{
+		"name": "The Sassanid Empire",
+		"leaderName": "Sharpur II",
+		"adjective": ["Sassanid"],
+		"startBias": ["Avoid Coast"],
+		"favoredReligion":"Zoroastrianism",
+		
+		"startIntroPart1": ".",
+		
+		"declaringWar": "The earth will tremble with my grand army. It is time for you to deliver my tribute.",
+		"attacked": "Ha! Have you not read about my titles? I am the king of kings, and you shall kneel to me.",
+		"defeated": "Just like the Parthians, my empire falls to rubble. Now your nation will make its mark on history forevermore. ",
+		"introduction": "Welcome, I am Shahanshah Sharpur II, the Greatest king of all nations. ",
+		
+		"neutralHello": "Welcome",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Why do you ruin my view with your presence?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "The Sassanids will deal with this tribute.",
+		"tradeRequest": "Can we offer you some of our finest goods?",
+
+		"spyNames": ["Thandar","Htut","So","Thiri","Sandy","Htin","Kyaw","Ei","Soe","Zaw"],
+
+
+		"uniqueName": "Trade from Sana'a to Nanjing",
+		"uniques": ["[-25]% maintenance on road & railroads","[+20]% [Gold] <when at war>"],
+		
+		"outerColor": [104, 7, 145],
+		"innerColor": [200, 10, 25],
+		"cities": ["Ctesiphon","Sarpol-e Zahab‎ ","Barda","Amghishiya","Izadkhast","Istakhr","Pushang","Ubulla","Valashabad","Abarsas",
+			   "Gundeshapur","Peroz-Shapur","Kashkar","Merv","Onoguris","Ganzak","Abiward","Hdatta","Nehardea","Weh Antiok Khosrow"]
+	},
+	
+	{
+		"name": "Somalia",
+		"leaderName": "Sayyid Muhammad Abdullah Hasan",
+		"adjective": ["Somali"],
+		"startBias": ["Coast"],
+		"favoredReligion":"Islam",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Your eyes have strayed away from us for far too long, now is our time to strike!",
+		"attacked": "To arms it is then",
+		"defeated": "Our freedom was temporary after all. We shall be bound as slaves for the rest of eternity then.",
+		"introduction": "Greetings, We welcome you the nation of wandering bards, Somalia.",
+
+
+		"neutralHello": "Welcome",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+		
+		"hateHello": "Why do you show your face to me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"Such a pathetic deal"],
+		"hateYes": ["Very well..."],
+
+		"tradeRequest": "Please accept this deal, it is the best we can offer",
+		
+		"uniqueName": "Spectre of Somaliland",
+		"uniques": ["[+5 Faith] from every [Fort] <when at war> ","[100]% of excess happiness converted to [Production] <upon declaring friendship> "],
+		
+		"outerColor": [40, 200, 200],
+		"innerColor":[148, 25, 6],
+		"cities": ["Mugadishu","Hargeisa","Burao","Borama","Berbera","Erigavo","Sheikh","Las Anod","Gabiley","Tog Wajaale",
+			   "El Afweyn","Aynaba","Oog","Iskudar","Habariheshay"],
+		
+      		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
+	},
+
+	{
+		"name": "Pueblo",
+		"leaderName": "Po'pe",
+		"adjective": ["Pueblo"],
+		"startBias": ["Desert"],
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "We shall roam into the wastes you call your nation and destroy your power.",
+		"attacked": "You disrespect our people and desercrate our works, we will show you justice!",
+		"defeated": "Why did the spirits abandon us? Our works shall crumble and fall into nothingness, are you pleased?",
+		"introduction": "The Puebla welcomes you to to my nation. I am Po'pe, leader of the grand deserts",
+
+
+		"neutralHello": "Welcome",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+		
+		"hateHello": "Who invited you here?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": ["Worthless..."],
+		"hateYes": ["Very well..."],
+
+		"tradeRequest": "Accept this deal if this benefits you.",
+
+		"uniqueName": "Oasisamerica",
+		"uniques": ["[+2 Food] from every [Desert]","[+1 Production] from every [Road]","[+15]% Strength <for [Military] units> <when fighting in [Desert] tiles> "],
+		
+		"outerColor": [175, 150, 60],
+		"innerColor": [65, 50, 15],
+		"cities": ["Tua-Tah","Tamayame","Cochiti","Shiewhibak","Walatowa","Nambe","P'iwweltha ","Pojoaque","Katishtya","Pʼohwhogeh Ówîngeh",
+			   "Tuf Shur Tia","Khaʼpʼoe Ówîngeh", "Taos","Tetsʼugeh Ówingeh","Tsi'ya","Ysleta Del Sur Pueblo","Anasazi","Mogollon","Hohokam","Tarahumara",
+			   "Salado","Sinagua","Hopi","Tiwa","Kewa Pueblo", "Ohkay Owingeh","Zuni","Acoma"],
+		
+      		"spyNames": ["Saqadhi", "Abdirashid", "Liban", "Abdi", "Jama", "Ismail", "Bashir", "Saed", "Farah"]
+	},
+
+	{
+		"name": "The Mughals",
+		"leaderName": "Shah Jahan",
+		"adjective": ["Mughal"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Time for you to recive the blessing of being part of our glorious empire!",
+		"attacked": "Our troops are ready to burn your cities to the ground.",
+		"defeated": "Our capital has been sacked, our art and culture has been burned to the ground, ... You are now the Emperor of the Mughals.",
+		"introduction": "Hello, We welcome you to our nation.",
+
+		"neutralHello": "what do you propose?",
+		"hateHello": "You are not worth my time.",
+
+		"tradeRequest": "This trade will benifit us both",
+		
+		"uniqueName": "Architects of Wonders",
+		"uniques": ["[+75]% Production when constructing [All] wonders [in all cities] <during a Golden Age> "],
+		
+		"outerColor": [0, 109, 33],
+		"innerColor": [255, 215, 0],
+		"cities": ["Agra","Shahjahanabad","Lahore","Fatehpur Sikri","Sikandra,","Srinagar","Prayagraj","Jaunpur","Aurangabad","Peshawar",
+			  "Farrukhnagar","Sheikhpura","Sukkur","Thatta","Taxila","Chittagong","Brahmanbaria","Noakhali","Sylhet","Narayanganj",
+			  "Dinajpur","Khulna","Chapai"],
+		
+      		"spyNames": ["Akbar", "Hasan", "Ghulam", "Taqir", "Salim", "Bijapur", "Babur", "Humayun", "Bariam"]
+	},
+
+	{
+		"name": "Kush",
+		"leaderName": "Kashta",
+		"adjective": ["Kushite"],
+		"startBias": ["River"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "Weak nations like yours don't benefit true empires like mine. Your people will fair better with me.",
+		"attacked": "Foolish, out for blood, just like a starving dog.",
+		"defeated": "The Kush shall live forevermore! We have braved chllenges greater thahan your brutish army, and so, even in death, we shall be free!",
+		"introduction": "Welcome to my lands. I am King Kashta, leader of the Kush and its streams.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Your face sickens me.",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"We are not agreeing to that!"],
+		"hateYes": ["Very well..."],
+		
+		"afterPeace": "May you respect these borders forever, or suffer the pain the Kush will bring onto you.",
+		"tradeRequest": "I will look forwards to your convoys arriving..",
+
+		"spyNames": ["Amanikhatashan","Amanislo","Khalese","Amanishakheto","Dedun","Piye","Shanakdakheto","Mashshouda","Kel","Barschanbu"],
+
+
+		"uniqueName": "The Edge of Great Empires",
+		"uniques": ["[+10]% [Gold] <for [10] turns> <upon declaring friendship>"
+			     ,"[+2 Gold] from every [Mine]"],
+		
+		"outerColor": [30, 45, 35],
+		"innerColor": [200, 180, 125],
+		"cities": ["Kerma","Meroe","Napata","Semna","El Kurru","Nuri","Kawa","Sedeinga","Heh","Pedeme",
+			"Faras","Shaat","Iken","Buhen","Dangeil","Miam","Tombos","Kurgus","Soleb","Wad ban Naqa",
+			"Debba","Bugdumbush","Baki","Amara","Aborepi","Ukma","Pedeme"]
+	},
+
+		{
+		"name": "Phoenicia",
+		"leaderName": "Hiram",
+		"adjective": ["Phoenicia"],
+		"startBias": ["Coast"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "There is now war in our hands. Look at the sea - it's now full of my ships.",
+		"attacked": "Are you a fool? Your city districts will understand the destruction of Yam and Moloch.",
+		"defeated": "One day you may see your capital bathed in flame. ...One day.",
+		"introduction": "Welcome, come and see the great Phoenician cities. Carry word of it back to your land, and to the rest of the world.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "Why are you here? You are so poor you cant eevn afford to glance at our works!",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"Pathetic"],
+		"hateYes": ["I'm suprised you have the economy to withhold this deal."],
+		
+		"afterPeace": "Stick to the mountains, Phoenicia requests the sea.",
+		"tradeRequest": "Accept these gifts, they are a mere taste of the wealth of Phoenicia.",
+
+		"spyNames": ["Nikkal","Arishat","Yapachemou Abi","Abichemou","Yzebel","Qetesh","Hanno","Kusarit","Allatu","Dido"],
+
+
+		"uniqueName": "Colonies of the Mediterranean",
+		"uniques": ["[Melee] units gain the [Amphibious] promotion"
+			     ,"[1] Movement point cost to disembark <for [All] units>"
+			     ,"Comment [Can relocate their capital after researching Civil Service]"
+		             ,"Comment [Note: Relocating the Capital more than once in a turn will break the game]"],
+		
+		"outerColor": [83,41,129],//120, 60, 185
+		"innerColor": [87,153,146], //15, 110, 100
+		"cities": ["Tyre","Byblos","Sidon","Beirut","Kition","Aynook","Leptis Magna","Quart-Hashdat","Ziz","Utica",
+			"Sabratha","Mtw","Lixus","Nora","Amrit","Oea","Gadir","Thapsus","Malaka","Hipponensis Sinus",
+			"Ibossim","Onoba","Mago","Sala","Sexi"]
+	},
+
+	{
+		"name": "Oman",
+		"leaderName": "Said bin Sultan",
+		"adjective": ["Omani"],
+		"startBias": ["Coast"],
+		"favoredReligion":"Islam",
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "Your nation is covered in potential riches, yet you bury yourselves in dirt and mud. Such primitive behaviour needs to be punished. ",
+		"attacked": "Ha! The empire I lead have never backed out of a fight, and you shall be no diffrent!",
+		"defeated": "All our riches.. lost to our eneies. Oman is lost, and we shall not stand the test of time.",
+		"introduction": "Salaam, i welcome you to the empire of Oman. Are you here to ry our luxuries?",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "May the borders that we draw today stand forevermore.",
+		"tradeRequest": "The fruits of our empire have the honour of being offered to you, at a fair price ofcourse.",
+
+		"spyNames": ["Farhan","Mumtaz","Hammad","Aisha","Noor","Fatimah","Yusuf","Isaac","Adeel","Aharon"],
+
+
+		"uniqueName": "Land of Frankincense and Myrrh",
+		"uniques": ["[+2 Faith] from each Trade Route"
+			   ,"Comment [2 free copies of Frankincense and Myrrh luxuries in Capital]"],
+		
+		"outerColor": [135, 131, 0],
+		"innerColor": [25, 50, 75],
+		"cities": ["Muscat","Salalah","Nizwa","Sur","Ibra","Bahla","Rustaq","Barka","Muttrah","Sohar",
+                           "Sahan","Samail","Khasab","Raysut","Jabrin","Al Hamra","Seeb","Duqm","Thumrait","Shinas",
+                           "Manah","Madha","Zahnzibar","Qurayyat","Suwayq","Bidiyah","Saiq","Malindi","Mogadishu","Merca"]
+	},
+
+	{
+		"name": "The Philippines",
+		"leaderName": "Dipatuan Kudarat",
+		"adjective": ["Filipino"],
+		"startBias": ["Coast"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "Why must you sell yourselves into slavery to toil for the benefit of the sinful? I shall bring the light of God to your heretical lands!",
+		"attacked": "You dare disrespect our independence? To expect such submission from us is sheer stupidity.",
+		"defeated": "Curse your imperialistic ways! When God will judge you, you shall not be spared from the flames of Hell!",
+		"introduction": "I welcome you to the Philippines, nation of the followers of Muhammad and Christ, defenders of faith.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This war has only had the loss of a year's harvest for you. A price to pay for liberty, don't you think?",
+		"tradeRequest": "The fruits of our empire have the honour of being offered to you, at a fair price ofcourse.",
+
+		"spyNames": ["Alon","Ligaya","Taya","Baiyani","Dalisay","Biwata","Amiyan","Kalangitan","Jose","Corazon"],
+
+
+		"uniqueName": "United by Faith and Independence",
+		"uniques": ["[+1 Faith, +1 Culture] from all [Faith] buildings"
+			   ,"May buy [Melee] units with [Faith] [in all cities]"
+		           ,"Earn [200]% of the damage done to [Melee Water] units as [Faith]"],
+		
+		"outerColor": [70, 95, 179],
+		"innerColor": [39, 84, 69],
+		"cities": ["Manilla","Cebu","Quezon","Tacloban","Caloocan","Davao","Baguio","Zamboanga","Iloilo","Bacolod",
+                           "Tagaytay","San Pablo","Lipa","Pasay","Ormoc","Naga","Butuan","Roxas","Gingoog","San Carlos"]
+	},
+
+	{
+		"name": "Benin",
+		"leaderName": "Ewuare",
+		"adjective": ["Edo"],
+		"startBias": ["River"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "Come men, lets plunder this petty kings land!",
+		"attacked": "Charging head-on to our fortifications? You are more stupid than you look!",
+		"defeated": "The bronze the Edo forged shall be remembered forevermore, but your grip on Benin shall loosen eventually!",
+		"introduction": "I am the Great Oba Ewuare of Benin, leader of the fortified walls of our magnificent capital.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "The walls we forge today shall be remembered.",
+		"tradeRequest": "Artisans across Benin present to you their works.",
+
+		"spyNames": ["Joromi","Abebe","Abeh","Abiemwense","Asoro","Irowa","Niyen","Odije","Okiri","Yuki"],
+
+
+		"uniqueName": "Shield of the Warrior King",
+		"uniques": ["[+1 Faith, +1 Culture] from all [Faith] buildings"
+			   ,"May buy [Melee] units with [Faith] [in all cities]"
+		           ,"Earn [200]% of the damage done to [Melee Water] units as [Faith]"],
+		
+		"outerColor": [170, 60, 80],
+		"innerColor": [180, 170, 140],
+		"cities": ["Ubini","Udo","Uromi","Akure","Lagos","Ibadan","Ife","Ado-Ekiti","Edo","Parakou"
+			  ,"Cotonou","Natitingou","Afuze","Auchi","Ekpoma","Ewu","Erruwa","Ubiaja","Ukhun","Agnebode"
+			  ,"Ososo","Ibillo","Djougou","Abomey","Bohicon","Fugar" ,"Okpekpe","Igueben","Akure"]
+	},
+
+	{
+		"name": "Burgundy",
+		"leaderName": "Philip III",
+		"adjective": ["Burgundian"],
+		"startBias": ["[Avoid] Coast"],
+		"favoredReligion":"Christianity",
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "You scatter your troops too far apart, and Burgundy shall take advantage of that.",
+		"attacked": "Our love of the arts may seem that we are weak, but the Duchy shall remain!",
+		"defeated": "The beauty of Burgundy shall be split between warring powers, a tragic fate.",
+		"introduction": "Ah, yes. I thought I heard someone wandering around my court. I, Philip III, welcome you to the Duchy of Burgundy.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "I hope our vassals shall now remain with their rightful rulers.",
+		"tradeRequest": "Artisans across Burgundy present to you their works.",
+
+		"spyNames": ["Antonie","Ida","Derral","Audrick","Vanya","Otillo","Julez","Heindrickx","Cleas","Jacquelynne"],
+
+
+		"uniqueName": "Northern Enlightenment",
+		"uniques": ["Allied City-States provide [Culture] equal to [+20]% of what they produce for themselves"
+		           ,"Free Great Person <upon declaring friendship> <with [25]% chance>"],
+		
+		"outerColor": [145, 130, 130],
+		"innerColor": [128,0,32],
+		"cities": ["Dijon","Ghent","Arras","Sant-Pol","Nevers","Semur","Chalon","Beaune","Saint-Claude","Amiens"
+			  ,"Nesle","Ham","St-Quentin","Guinegate","Namur","Bergen op Zoom","Chimay","Eu","Bourbon-Lancy","Charolles"
+			  ,"Luxeuil","Vesoul","Picquigny","Aumale","Genappe","Horne"]
+	},
+
+
+	{
+		"name": "The Anglo-Saxons",
+		"leaderName": "Æthelstan",
+		"adjective": ["Anglo-Saxon"],
+		"startBias": ["Forest"],
+		"favoredReligion":"Christianity",
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "The heathens you call your army have terrorised my borders long enough. It is time for you o face God's divine punishment!",
+		"attacked": "Barbarians! The Angles and the Saxons brothers shall repel your raiders!",
+		"defeated": "Divided, the Angles and Saxons shall murder each other, thanks to you. A world where we can live under a peaceful future is forever lost",
+		"introduction": "The peoples of Mercia and Wessex greet you, foreigner. I am Æthelstan, Law-giver and King of this land.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "May our forces never need to meet eachother on the field of battle again",
+		"tradeRequest": "Is this exchange fair for you?",
+
+		"spyNames": ["Alfred","Osweald","Hilda","Godric","Ealhswiþ","Eadmund","Cyneric","Botwulf","Ælfred","Uhtric"],
+
+
+		"uniqueName": "Saxon Chronicles",
+		"uniques": ["[+25]% [Culture] <during a Golden Age>",
+			    "[+20]% Golden Age length"],
+		
+		"outerColor": [176, 168, 167],
+		"innerColor": [88, 145, 44],
+		"cities": ["Winchester","Lichfield","Wareham","Warwick","Ipswich","Buckingham","Hertford","Maldon","Stafford","Chester"
+			  ,"Chichester","Wilton","HÆstings","Bridgnorth","Bridport","Sashes","Suthampton","Watchet","Malmes","Tamworth"
+			  ,"Exeter","Snottingham"]
+	},
+
+	{
+		"name": "Calusa",
+		"leaderName": "Senquene",
+		"adjective": ["Calusa"],
+		"startBias": ["Marsh"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "You tread on the land of Calusa and disgrace our nation. I will make you pay tribute!",
+		"attacked": "We shall hunt you down in the swamps of the Everglades. You will regret this",
+		"defeated": "The Calusa have fallen! Our souls shall pass on to new life, even after you destroy our society. We shall torture you, even in a different form.",
+		"introduction": "I am Sequene, the king of the rivers and marsh. State your matters.",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This tribute shall be accepteble",
+		"tradeRequest": "Are you interested in this trade?",
+
+		"spyNames": ["Caalus","Felip","Pablou","Antonia","Senquene","Mr Croc."],
+
+
+		"uniqueName": "Masters of the Everglades",
+		"uniques": ["[Worker] units gain the [River of Grass] promotion",
+			    "[+1 Food, +1 Culture] from every [Marsh]"],
+		
+		"outerColor": [32, 54, 25],
+		"innerColor": [146, 209, 202],
+		"cities": ["Escampaha","Muspa","Mayaimi","Tampa","Hobe","Jece","Tekeste","Guarugunbe","Cuchianga","Jaega",
+			   "Tateste","Custegiyo","Tocobanga","Pohoy","Uzita","Mocoso","Bomto","Ais","Jobe","Ulumay",
+			   "Santalucea" ,"Timucua"]
+	},
+
+	{
+		"name": "Sri Lanka",
+		"leaderName": "Parakramabahu I",
+		"adjective": ["Sri Lankan"],
+		"startBias": ["River"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "Your people wish to be unified with the holy lands of Sri Lanka, and so we shall follow their wishes, at any cost.",
+		"attacked": "You disgrace the holy land of our nation. Our faith in victory shall repel any brutish force you throw our way.",
+		"defeated": "How? I am the Great Parakramabahu? How have you undone the unity of the three kingdoms of this now desecrated land. ",
+		"introduction": "Welcome stranger. The people of Sri Lanka are curious about your land. May you gift us such information?",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This will do",
+		"tradeRequest": "Valubles from our harbours need a buyer to purchase them.",
+
+		"spyNames": ["Caalus","Felip","Pablou","Antonia"],
+
+
+		"uniqueName": "Dipavamsa",
+		"uniques": [ "[+1 Production] from [Fresh Water] tiles [in all cities]",
+			     "[-10]% Culture cost of natural border growth [in all cities] <in cities with a [Shrine]>",
+			     "[-10]% Culture cost of natural border growth [in all cities] <in cities with a [Temple]>",
+			     "[-10]% Culture cost of natural border growth [in all cities] <upon founding a Religion>"],
+		
+		"outerColor": [148, 30, 50],
+		"innerColor": [247, 183, 24],
+		"cities": ["Colombo","Polonnaruwa","Kandy","Mahiyangana","Anuradhapura","Mahanagukula","Paliyankulam","Jaffna","Dehiwala","Moratuwa"
+			  ,"Kotte","Negombo","Kalmunai","Vavuniya","Galle","Trincomalee","Batticaloa","Matale","Katunayake","Dambulla"
+			  ,"Kolonnawa","Ratnapura"]
+	},
+
+	{
+		"name": "Kazakhstan",
+		"leaderName": "Ablai Khan",
+		"adjective": ["Kazakh"],
+		"startBias": ["Plains"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "The Kazakhs shall never accept your tyrannical suzerainity of their true homeland. We shall reclaim it, no matter the cost.",
+		"attacked": "It appears our attempt at neutrality has been percieved as weakness. The Kazakh horde shall crush you troops!",
+		"defeated": "No! Why did the Kazakh tribes collapse and seperate. Oh God, why must the treachery of war be the end of a united steppe? Why?",
+		"introduction": "You trean near Kazakh lands. I am Albai, and you shall know me as Khan of the Kazakhs",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This will do",
+		"tradeRequest": "Will you accept these fruits of the steppe?",
+
+		"spyNames": ["Nurasyl","Timur","Zhuldyz","Tomiris","Aldiyar","Aisultan","Adilat","Bibigul","Khamza","Makhmud"],
+
+
+		"uniqueName": "Nomads of Asia",
+		"uniques": [ "[+2 Food] from [Pasture] tiles [in all cities]",
+			     "[-50]% construction time for [Pasture] improvements"],
+		
+		"outerColor": [0, 175, 202],
+		"innerColor": [229, 230, 211],
+		"cities": ["Astana","Oral","Shymkent","Taraz","Turkistan","Semei","Kokshetau","Petropavl","Pavlodar","Kyzylorda"
+			  ,"Oskemen","Aqtobe","Atyrau","Qostanai","Qaraganda","Ridder","Balqash","Schuchinsk","Taldykorgan","Temirtau"
+			  ,"Jezkazgan","Saran"]
+	},
+
+	{
+		"name": "Scythia",
+		"leaderName": "Tomyris",
+		"adjective": ["Scithian"],
+		"startBias": ["Plains"],
+		
+		"startIntroPart": "",
+		
+		"declaringWar": "The Empress calls for your head. You will be drowned in your own blood!",
+		"attacked": "You have betrayed the trust of the Scythians and now you will pay!",
+		"defeated": "The Empress falls, but I will be remembered. Will you?",
+		"introduction": "Greetings. If you are a true friend, we will have peace, but let it be known, I will repay any treachery with blood!",
+		
+		"neutralHello": "I hear you.",
+		"neutralLetsHearIt": ["Go on."],
+		"neutralNo": ["I refuse."],
+		"neutralYes": ["Very good."],
+
+		"hateHello": "What can you do for me?",
+		"hateLetsHearIt": ["Go on."],
+		"hateNo": [,"You are worthless"],
+		"hateYes": ["Maybe just this once..."],
+		
+		"afterPeace": "This will do",
+		"tradeRequest": "I have sent you a trade caravan bearing a decorated gorytos as a gift for you. You will accept, yes?",
+
+		"spyNames": ["Turxu","Kolax","Argimpas","Scopasis","Artimpada","Apia","Hestia","Lewlelil","Kollippi","Temarun"],
+
+
+		"uniqueName": "Destroyer of Persia",
+		"uniques": [ "All newly-trained [Mounted] units [in all cities] receive the [Charge] promotion",
+			     "Comment [Free [Mounted unit] appears <upon conquering a city>]",
+			     "Free [Chariot Archer] appears <upon conquering a city> <during the [Ancient era]> <hidden from users>",
+			     "Free [Horseman] appears <upon conquering a city> <during the [Classical era]> <hidden from users>",
+		             "Free [Knight] appears <upon conquering a city> <during the [Medieval era]> <hidden from users>",
+		             "Free [Lancer] appears <upon conquering a city> <during the [Renaissance era]> <hidden from users>",
+		             "Free [Cavalry] appears <upon conquering a city> <during the [Industrial era]> <hidden from users>",
+		             "Free [Landship] appears <upon conquering a city> <during the [Modern era]> <hidden from users>",
+		             "Free [Tank] appears <upon conquering a city> <during the [Information era]> <hidden from users>",
+		             "Free [Giant Death Robot] appears <upon conquering a city> <during the [Future era]> <hidden from users>"],
+		
+		"outerColor": [99, 59, 12],
+		"innerColor": [187, 189, 75],
+		"cities": ["Pokrovka","Issyk","Kul Oba","Gelonus","Pazyryk","Chertomlyk","Kostromskaya","Myriv","Solokha","Maikop"
+			  ,"Kamianka-Dniprovska","Tolstaya","Olbia","Kelermes","Ulski","Arzhan","Elizavetovskaya","Melgunov","Panticapaeum","Tsarskaya"
+			  ,"Ogüz","Theodosia"]
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+	//City States
+
+	{
+		"name": "Baku",
+		"adjective": ["Azerbaijani"],
+		"cityStateType": "Baku Oil",
+
+		"declaringWar": "The Azerbaijani army shall humiliate your pathetic military.",
+		"attacked": "Your conquest shall end at the gates of Baku!",
+		"defeated": "We stood alone in our war, and now we shall be ruled over forevermore. Congratulations, conquerer.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [55, 89, 148],
+		"cities": ["Baku"]
+	},
+
+	{
+		"name": "Gdansk",
+		"adjective": ["Polish"],
+		"cityStateType": "Gdansk Treaties",
+
+		"declaringWar": "Our cavalry shall trample all over you.",
+		"attacked": "The soverignty of the Gdansk shall remain, no matter what!",
+		"defeated": "The Polish are now at your command, great conquerer.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 117, 138],
+		"cities": ["Gdansk"]
+	},
+
+	{
+		"name": "Dilmun",
+		"adjective": ["Eastern Semetic"],
+		"cityStateType": "Dilmun Hub",
+
+		"declaringWar": "Our riches shall fuel the army that will bring you to the ground.",
+		"attacked": "Maybe you should think more carefully about the reprecussions of your actions",
+		"defeated": "All nations are not destined to live forever, I guess.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [61, 77, 49],
+		"cities": ["Dilmun"]
+	},
+
+	{
+		"name": "Gaochang",
+		"adjective": ["Uyghur"],
+		"cityStateType": "Gaochang Karez",
+
+		"declaringWar": "Noone shall conquer the Oasis of the desert",
+		"attacked": "The deserts that we hold has trained our people to be grear warriors. Now they shall be put to their grand test",
+		"defeated": "How can such evil triumph the good people of the Oasis? How...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [9, 50, 122],
+		"cities": ["Gaochang"]
+	},
+
+	{
+		"name": "Wei",
+		"adjective": ["Gaoche"],
+		"cityStateType": "Production",
+
+		"declaringWar": "Our cavalry shall trample over your troops.",
+		"attacked": "Ha! The hordes of our troops shall devestate your lands!",
+		"defeated": "Why have my people left me? Why have they betrayed me to join this tyrant?",
+		"outerColor": [0, 0, 0],
+		"innerColor": [125, 61, 24],
+		"cities": ["Wei"]
+	},
+
+	{
+		"name": "Palmyra",
+		"adjective": ["Palmyrenes"],
+		"cityStateType": "Production",
+
+		"declaringWar": "Our men shall go onwards, to victory!",
+		"attacked": "You will not pry our great wealth from our hands without a fight!",
+		"defeated": "The works of Palmyra will crumbe ino ruin, and we shall be erased from history.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [191, 129, 94],
+		"cities": ["Palmyra"]
+	},
+
+	{
+		"name": "Baikonur",
+		"adjective": ["Baikonur"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "Our technology shall triumph over your backwards ways.",
+		"attacked": "You will not take our research without a fight",
+		"defeated": "One day I hope my people shall escape to space so that they are safe from the hell you have created on this planet.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [52, 21, 189],
+		"cities": ["Baikonur"]
+	},
+
+	{
+		"name": "Gurganj",
+		"adjective": ["Gurganj"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "Your disturbances have been annoying us for years. You shall pay for this!",
+		"attacked": "We have faced worse sieges thn yours. ",
+		"defeated": "Our walls have failed us! Our troops have all surrendered! All hope is lost...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [52, 21, 189],
+		"cities": ["Gurganj"]
+	},
+	
+]

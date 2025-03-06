@@ -1,0 +1,16 @@
+[
+
+ 
+{
+        "name": "Frankincense", 
+        "gold": 1,
+        "resourceType": "Luxury",
+    },
+
+{
+        "name": "Myrrh", 
+        "gold": 1,
+        "resourceType": "Luxury",
+    },
+
+]

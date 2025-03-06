@@ -1,0 +1,34 @@
+[
+  {
+        "name": "Karez",
+        "terrainsCanBeBuiltOn": ["River","Desert"],
+        "food": 2,
+        "production": 1,
+        "turnsToBuild": 7,
+        "uniques": ["[+2 Production] for each adjacent [Mountain]",
+                    "[+2 Production] for each adjacent [Oasis]",
+                    "Cannot be built on [resource] tiles",
+                    "Pillaging this improvement yields approximately [+20 Gold]",
+                    "Only available <for units with [Karez Builders]>"],
+    },
+
+   {
+        "name": "Iya",
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Hill","Tundra"],
+        "uniqueTo": "Benin",
+        "turnsToBuild": 7,
+        "gold": 1,
+        "production": 1,
+        "techRequired": "Engineering",
+        "uniques": ["Gives a defensive bonus of [25]%",
+                   "Adjacent enemy units ending their turn take [10] damage",
+                    "[+1 Gold, +1 Production] <after discovering [Industrialization]>",
+                    "Pillaging this improvement yields approximately [+20 Gold]"],
+    },
+
+
+
+
+
+
+]

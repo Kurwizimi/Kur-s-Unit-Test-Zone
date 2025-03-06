@@ -242,13 +242,6 @@ NationIcons/The Sassanid Empire
   orig: 102, 90
   offset: 0, 0
   index: -1
-Peacekeeper
-  rotate: false
-  xy: 996, 668
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
 ResourceIcons/Frankincense
   rotate: false
   xy: 779, 227
@@ -422,6 +415,13 @@ TileSets/AbsoluteUnits/Units/Myinsi
   xy: 1147, 329
   size: 77, 65
   orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Peacekeeper
+  rotate: false
+  xy: 996, 668
+  size: 95, 81
+  orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pitati

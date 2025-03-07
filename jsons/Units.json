@@ -67,8 +67,6 @@
 	{
 		"name": "Peacekeeper",
 		"unitType": "Mounted",
-		"uniqueTo": "Al Andalus",
-		"replaces": "Scout",
 		"movement": 15,
 		"strength": 29,
 		"cost": 2,

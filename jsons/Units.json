@@ -302,7 +302,15 @@
 		"promotions": ["Shock I"],
         	"obsoleteTech": "Gunpowder",
         	"attackSound": "metalhit"
-    	},
+    	},{
+		"name": "Carracio",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 29,
+		"cost": 1,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"promotions": ["Besiege"],
+	}
     
 
 ]

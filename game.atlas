@@ -263,23 +263,30 @@ TileSets/AbsoluteUnits/Units/Axeman
   orig: 95, 81
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Dervish Cavalry
+TileSets/AbsoluteUnits/Units/Carracio
   rotate: false
-  xy: 1189, 1454
-  size: 77, 65
-  orig: 77, 65
+  xy: 1189, 1449
+  size: 77, 70
+  orig: 77, 70
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Dervish Cavalry-1
+TileSets/AbsoluteUnits/Units/Dervish Cavalry
   rotate: false
   xy: 893, 417
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Dervish Cavalry-2
+TileSets/AbsoluteUnits/Units/Dervish Cavalry-1
   rotate: false
   xy: 978, 417
+  size: 77, 65
+  orig: 77, 65
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Dervish Cavalry-2
+  rotate: false
+  xy: 1063, 417
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
@@ -321,21 +328,21 @@ TileSets/AbsoluteUnits/Units/Gajnal-1
   index: -1
 TileSets/AbsoluteUnits/Units/Gajnal-2
   rotate: false
-  xy: 1063, 403
+  xy: 1062, 330
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gajnal-attack-1
   rotate: false
-  xy: 1062, 316
+  xy: 1202, 670
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Goum
   rotate: false
-  xy: 1148, 402
+  xy: 1202, 582
   size: 77, 80
   orig: 77, 80
   offset: 0, 0
@@ -356,21 +363,21 @@ TileSets/AbsoluteUnits/Units/Isienmwenro
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi
   rotate: false
-  xy: 1202, 693
+  xy: 1359, 1031
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi-1
   rotate: false
-  xy: 1202, 629
+  xy: 1245, 875
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi-2
   rotate: false
-  xy: 1202, 565
+  xy: 1245, 811
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -412,7 +419,7 @@ TileSets/AbsoluteUnits/Units/Lada'kwe-2
   index: -1
 TileSets/AbsoluteUnits/Units/Myinsi
   rotate: false
-  xy: 1147, 329
+  xy: 1202, 509
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
@@ -447,21 +454,21 @@ TileSets/AbsoluteUnits/Units/Pitati-2
   index: -1
 TileSets/AbsoluteUnits/Units/Tolu-Batyr
   rotate: false
-  xy: 1280, 1095
+  xy: 1148, 412
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tolu-Batyr-1
   rotate: false
-  xy: 1274, 1017
+  xy: 1147, 334
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tolu-Batyr-2
   rotate: false
-  xy: 1273, 939
+  xy: 1280, 1095
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
@@ -489,21 +496,21 @@ TileSets/AbsoluteUnits/Units/Yodhaya-2
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry
   rotate: false
-  xy: 1365, 1095
+  xy: 1274, 1017
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry-1
   rotate: false
-  xy: 1359, 1017
+  xy: 1273, 939
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry-2
   rotate: false
-  xy: 1358, 939
+  xy: 1365, 1095
   size: 77, 70
   orig: 77, 70
   offset: 0, 0

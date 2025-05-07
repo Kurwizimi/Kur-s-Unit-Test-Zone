@@ -25,6 +25,13 @@
                     "[+1 Gold, +1 Production] <after discovering [Industrialization]>",
                     "Pillaging this improvement yields approximately [+20 Gold]"],
     },
+  {
+        "name": "Lake Victoria",
+        "terrainsCanBeBuiltOn": ["Plains"],
+        "food": 2,
+        "production": 1,
+        "turnsToBuild": 7,
+    },
 
 
 

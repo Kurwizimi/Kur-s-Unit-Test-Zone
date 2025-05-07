@@ -515,6 +515,13 @@ TileSets/AbsoluteUnits/Units/Zenata Cavalry-2
   orig: 77, 70
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Lake Victoria
+  rotate: false
+  xy: 1317, 875
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 UnitIcons/Al Sultanah
   rotate: false
   xy: 1901, 1399

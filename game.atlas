@@ -363,21 +363,21 @@ TileSets/AbsoluteUnits/Units/Isienmwenro
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi
   rotate: false
-  xy: 1359, 1031
+  xy: 1245, 811
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi-1
   rotate: false
-  xy: 1245, 875
+  xy: 1317, 875
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi-2
   rotate: false
-  xy: 1245, 811
+  xy: 1317, 811
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -515,9 +515,23 @@ TileSets/AbsoluteUnits/Units/Zenata Cavalry-2
   orig: 77, 70
   offset: 0, 0
   index: -1
+TileSets/HexaRealm/Tiles/Brazilwood Camp
+  rotate: false
+  xy: 1359, 1031
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Extra Brazilwood Camp
+  rotate: false
+  xy: 1245, 875
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Lake Victoria
   rotate: false
-  xy: 1317, 875
+  xy: 1233, 445
   size: 64, 56
   orig: 64, 56
   offset: 0, 0

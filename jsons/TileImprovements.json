@@ -33,6 +33,19 @@
         "turnsToBuild": 7,
     },
 
+  {
+        "name": "Brazilwood Camp",
+        "terrainsCanBeBuiltOn": ["Grassland"],
+        "turnsToBuild": 7,
+        "techRequired": "Engineering",
+    },
+  {
+        "name": "Extra Brazilwood Camp",
+        "terrainsCanBeBuiltOn": ["Grassland"],
+        "turnsToBuild": 7,
+        "techRequired": "Engineering",
+    },
+
 
 
 

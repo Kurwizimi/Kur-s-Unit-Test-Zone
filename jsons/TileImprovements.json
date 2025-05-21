@@ -46,6 +46,13 @@
         "techRequired": "Engineering",
     },
 
+  {
+        "name": "Void",
+        "terrainsCanBeBuiltOn": ["Grassland"],
+        "turnsToBuild": 7,
+        "techRequired": "Engineering",
+    },
+
 
 
 

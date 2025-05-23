@@ -284,6 +284,13 @@ TileSets/AbsoluteUnits/Units/Herald
   orig: 95, 81
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/HighD
+  rotate: false
+  xy: 4, 1038
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Isienmwenro
   rotate: false
   xy: 322, 45
@@ -422,13 +429,6 @@ UnitIcons/Herald
   xy: 434, 487
   size: 137, 119
   orig: 137, 119
-  offset: 0, 0
-  index: -1
-UnitIcons/HighD
-  rotate: false
-  xy: 4, 1038
-  size: 1000, 1000
-  orig: 1000, 1000
   offset: 0, 0
   index: -1
 UnitIcons/Isienmwenro

@@ -322,6 +322,15 @@
 		"requiredTech": "Printing Press",
 		"promotions": ["Besiege"],
 	}
+	{
+		"name": "HighD",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 29,
+		"cost": 1,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"promotions": ["Besiege"],
+	}
     
 
 ]

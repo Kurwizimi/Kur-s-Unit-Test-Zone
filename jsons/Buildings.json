@@ -3,7 +3,7 @@
 		"name": "Resource_Interest",
 		"cost": 1,
 		"hurryCostModifier": 1,
-		"uniques": ["Double quantity of [resource] produced <for every [turns]>"]
+		"uniques": ["Double quantity of [Iron] produced <for every [turns]>"]
 		"requiredTech": "Agriculture",
 	}
 	

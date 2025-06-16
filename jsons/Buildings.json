@@ -16,7 +16,7 @@
 		"culture": 1,
 		"faith": 1,
 		"uniques": ["[+1 Faith] from [Farm] tiles [in this city]",
-			    "[+1 Culture] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>"]
+			    "[+1 Culture] from [Hill] tiles [in this city] <with [1] to [2] neighboring [City center] tiles>" ,"Comment [More Wonders is on] <if [More-Wonders] is enabled>"]
 		"requiredTech": "Philosophy",
 	}
 

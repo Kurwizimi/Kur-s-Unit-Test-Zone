@@ -330,6 +330,16 @@
 		"cost": 1,
 		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
 		"promotions": ["Besiege"],
+	},
+	{
+		"name": "Peacekeeper inia",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 29,
+		"cost": 190,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"obsolete": "Combustion",
+		"promotions": ["Besiege"],
 	}
     
 

@@ -341,6 +341,26 @@
 		"obsolete": "Combustion",
 		"promotions": ["Besiege"],
 	}
+	{
+		"name": "GGgoneviolent",
+		"unitType": "Mounted",
+		"replaces": "Scout",
+		"movement": 4,
+		"strength": 29,
+		"cost": 2,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"promotions": ["Besiege"],
+	}
+	{
+		"name": "GGgoneviolencia",
+		"unitType": "Mounted",
+		"replaces": "Scout",
+		"movement": 4,
+		"strength": 29,
+		"cost": 2,
+		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
+		"promotions": ["Besiege"],
+	}
     
 
 ]

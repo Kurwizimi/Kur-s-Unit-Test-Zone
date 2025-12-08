@@ -500,9 +500,9 @@ size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Monument
+BuildingIcons/Shrine
   rotate: false
-  xy: 313, 162
+  xy: 411, 162
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
@@ -516,7 +516,7 @@ NationIcons/Al Andalus
   index: -1
 NationIcons/Pueblo
   rotate: false
-  xy: 411, 162
+  xy: 313, 162
   size: 90, 90
   orig: 90, 90
   offset: 0, 0

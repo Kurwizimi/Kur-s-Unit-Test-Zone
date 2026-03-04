@@ -359,6 +359,15 @@
 		"uniques":["Comment [Unlocked earlier at Printing Press vs Military Science]"]
 		"promotions": ["Besiege"],
 	}
+	{
+		"name": "bonusMov",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 29,
+		"cost": 2,
+		"uniques":[""]
+		"promotions": ["bonusInitialMov"],
+	}
     
 
 ]

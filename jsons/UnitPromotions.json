@@ -28,7 +28,7 @@
 	}
 	{
 		"name": "bonusInitialMov",
-		"uniques": ["[+2] Movement", "[This Unit] loses the [bonusInitialMov] promotion"]
+		"uniques": ["[+2] Movement", "[This Unit] loses the [bonusInitialMov] promotion <upon turn end>"]
 	}
 
 

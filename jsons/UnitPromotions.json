@@ -26,6 +26,11 @@
 		"row": 110,
       		"column": 0,
 	}
+	{
+		"name": "bonusInitialMov",
+		"uniques": ["[+2] Movement", "[This unit] loses the [bonusInitialMov] promotion"]
+	}
+
 
 
 

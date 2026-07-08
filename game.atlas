@@ -4,744 +4,772 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Karkhanas
+  rotate: false
+  xy: 1318, 884
+  size: 552, 591
+  orig: 552, 591
+  offset: 0, 0
+  index: -1
+BuildingIcons/Paya
+  rotate: false
+  xy: 4, 284
+  size: 700, 607
+  orig: 700, 607
+  offset: 0, 0
+  index: -1
+BuildingIcons/Qalcad
+  rotate: false
+  xy: 712, 284
+  size: 598, 607
+  orig: 598, 607
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/HighD
+  rotate: false
+  xy: 4, 899
+  size: 1000, 1000
+  orig: 1000, 1000
+  offset: 0, 0
+  index: -1
+UnitIcons/Gajnal
+  rotate: false
+  xy: 1012, 1483
+  size: 579, 416
+  orig: 579, 416
+  offset: 0, 0
+  index: -1
+map/Screenshot_20260414_191122_org_mozilla_firefox_HomeActivity
+  rotate: false
+  xy: 1318, 4
+  size: 550, 872
+  orig: 550, 872
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 BuildingIcons/Alcazar
   rotate: false
-  xy: 1618, 1214
+  xy: 245, 256
   size: 230, 200
   orig: 230, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Cliff Dwellings
   rotate: false
-  xy: 591, 830
+  xy: 788, 816
   size: 228, 200
   orig: 228, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Cloth Hall
   rotate: false
-  xy: 1618, 819
+  xy: 243, 68
   size: 209, 180
   orig: 209, 180
   offset: 0, 0
   index: -1
 BuildingIcons/Cothon
   rotate: false
-  xy: 1618, 1007
+  xy: 549, 609
   size: 230, 199
   orig: 230, 199
   offset: 0, 0
   index: -1
 BuildingIcons/Falaj
   rotate: false
-  xy: 1720, 1630
+  xy: 549, 816
   size: 231, 200
   orig: 231, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Goldsmith
   rotate: false
-  xy: 1696, 255
+  xy: 549, 421
   size: 205, 180
   orig: 205, 180
   offset: 0, 0
   index: -1
-BuildingIcons/Karkhanas
-  rotate: false
-  xy: 591, 217
-  size: 552, 591
-  orig: 552, 591
-  offset: 0, 0
-  index: -1
 BuildingIcons/Kiiz Uy
   rotate: false
-  xy: 4, 426
+  xy: 1456, 836
   size: 207, 180
   orig: 207, 180
   offset: 0, 0
   index: -1
 BuildingIcons/Nahrawan Canal
   rotate: false
-  xy: 1720, 1838
+  xy: 4, 256
   size: 233, 200
   orig: 233, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Palengke
   rotate: false
-  xy: 219, 426
+  xy: 1671, 836
   size: 207, 180
   orig: 207, 180
   offset: 0, 0
   index: -1
-BuildingIcons/Paya
-  rotate: false
-  xy: 1012, 1431
-  size: 700, 607
-  orig: 700, 607
-  offset: 0, 0
-  index: -1
 BuildingIcons/Pillar Tomb
   rotate: false
-  xy: 1720, 1422
+  xy: 4, 48
   size: 231, 200
   orig: 231, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Qalcad
-  rotate: false
-  xy: 1012, 816
-  size: 598, 607
-  orig: 598, 607
-  offset: 0, 0
-  index: -1
 BuildingIcons/Shire Court
   rotate: false
-  xy: 1835, 819
+  xy: 787, 628
   size: 208, 180
   orig: 208, 180
   offset: 0, 0
   index: -1
 BuildingIcons/Tidal Trap
   rotate: false
-  xy: 1696, 631
+  xy: 1024, 836
   size: 208, 180
   orig: 208, 180
   offset: 0, 0
   index: -1
 BuildingIcons/Vatadage
   rotate: false
-  xy: 1696, 443
+  xy: 1240, 836
   size: 208, 180
   orig: 208, 180
   offset: 0, 0
   index: -1
+BuildingIcons/pixil-frame-0(30)
+  rotate: false
+  xy: 1535, 236
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 CityStateIcons/Production
   rotate: false
-  xy: 1714, 157
+  xy: 1012, 139
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
   index: -1
 CityStateIcons/Scientific
   rotate: false
-  xy: 1826, 141
+  xy: 1045, 432
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
   index: -1
+NationIcons/Al Andalus
+  rotate: false
+  xy: 1339, 246
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 NationIcons/Burma
   rotate: false
-  xy: 581, 119
+  xy: 1046, 610
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/Calusa
   rotate: false
-  xy: 691, 119
+  xy: 1156, 610
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/Kazakhstan
   rotate: false
-  xy: 801, 119
+  xy: 1266, 610
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/Kush
   rotate: false
-  xy: 911, 119
+  xy: 1376, 611
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/Oman
   rotate: false
-  xy: 1151, 158
+  xy: 899, 334
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
   index: -1
 NationIcons/Phonecia
   rotate: false
-  xy: 1912, 533
+  xy: 1751, 738
   size: 108, 90
   orig: 108, 90
   offset: 0, 0
   index: -1
+NationIcons/Pueblo
+  rotate: false
+  xy: 1437, 246
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
 NationIcons/Scythia
   rotate: false
-  xy: 212, 93
+  xy: 1596, 610
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/Somalia
   rotate: false
-  xy: 1377, 158
+  xy: 899, 138
   size: 105, 90
   orig: 105, 90
   offset: 0, 0
   index: -1
 NationIcons/Sri Lanka
   rotate: false
-  xy: 1938, 141
+  xy: 1124, 334
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
   index: -1
 NationIcons/Swahili
   rotate: false
-  xy: 357, 134
+  xy: 1124, 236
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
   index: -1
 NationIcons/The Anglo-Saxons
   rotate: false
-  xy: 1490, 61
+  xy: 1157, 512
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/The Mughals
   rotate: false
-  xy: 4, 110
+  xy: 691, 213
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/The Philippines
   rotate: false
-  xy: 1131, 60
+  xy: 1867, 670
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 NationIcons/The Sassanid Empire
   rotate: false
-  xy: 1241, 60
+  xy: 1864, 572
   size: 102, 90
   orig: 102, 90
   offset: 0, 0
   index: -1
 ResourceIcons/Frankincense
   rotate: false
-  xy: 1490, 159
+  xy: 1012, 335
   size: 104, 89
   orig: 104, 89
   offset: 0, 0
   index: -1
 ResourceIcons/Myrrh
   rotate: false
-  xy: 1602, 157
+  xy: 1012, 237
   size: 104, 90
   orig: 104, 90
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Axeman
   rotate: false
-  xy: 827, 821
+  xy: 1012, 50
   size: 95, 81
   orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Fyrd
-  rotate: false
-  xy: 1351, 69
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Fyrd-1
-  rotate: false
-  xy: 1600, 68
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Fyrd-2
-  rotate: false
-  xy: 1703, 68
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/GGgoneviolencia
-  rotate: false
-  xy: 1806, 52
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/GGgoneviolent
-  rotate: false
-  xy: 1909, 52
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Guard
-  rotate: false
-  xy: 322, 45
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Herald
-  rotate: false
-  xy: 425, 45
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/HighD
-  rotate: false
-  xy: 4, 1038
-  size: 1000, 1000
-  orig: 1000, 1000
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Isienmwenro
-  rotate: false
-  xy: 528, 30
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Jazayerchiha
-  rotate: false
-  xy: 631, 30
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Katipunan
-  rotate: false
-  xy: 734, 30
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Lada'kwe
-  rotate: false
-  xy: 837, 30
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Lada'kwe-1
-  rotate: false
-  xy: 940, 30
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Lada'kwe-2
-  rotate: false
-  xy: 4, 21
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Peacekeeper
-  rotate: false
-  xy: 107, 21
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Peacekeeper-India
-  rotate: false
-  xy: 107, 21
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-TileSets/AbsoluteUnits/Units/Pitati
-  rotate: false
-  xy: 210, 4
-  size: 95, 81
-  orig: 95, 81
-  offset: 0, 0
-  index: -1
-UnitIcons/Al Sultanah
-  rotate: false
-  xy: 1912, 435
-  size: 106, 90
-  orig: 106, 90
-  offset: 0, 0
-  index: -1
-UnitIcons/Axeman
-  rotate: false
-  xy: 1856, 1294
-  size: 138, 120
-  orig: 138, 120
-  offset: 0, 0
-  index: -1
-UnitIcons/Bireme
-  rotate: false
-  xy: 1909, 337
-  size: 105, 90
-  orig: 105, 90
-  offset: 0, 0
-  index: -1
-UnitIcons/Canoe
-  rotate: false
-  xy: 1856, 1166
-  size: 138, 120
-  orig: 138, 120
-  offset: 0, 0
-  index: -1
-UnitIcons/Dervish Cavalry
-  rotate: false
-  xy: 1151, 256
-  size: 537, 552
-  orig: 537, 552
-  offset: 0, 0
-  index: -1
-UnitIcons/Fyrd
-  rotate: false
-  xy: 1856, 1038
-  size: 138, 120
-  orig: 138, 120
-  offset: 0, 0
-  index: -1
-UnitIcons/Gajnal
-  rotate: false
-  xy: 4, 614
-  size: 579, 416
-  orig: 579, 416
-  offset: 0, 0
-  index: -1
-UnitIcons/Herald
-  rotate: false
-  xy: 434, 487
-  size: 137, 119
-  orig: 137, 119
-  offset: 0, 0
-  index: -1
-UnitIcons/Isienmwenro
-  rotate: false
-  xy: 434, 360
-  size: 137, 119
-  orig: 137, 119
-  offset: 0, 0
-  index: -1
-UnitIcons/Jahazi
-  rotate: false
-  xy: 1909, 239
-  size: 105, 90
-  orig: 105, 90
-  offset: 0, 0
-  index: -1
-UnitIcons/Katipunero
-  rotate: false
-  xy: 420, 232
-  size: 137, 120
-  orig: 137, 120
-  offset: 0, 0
-  index: -1
-UnitIcons/Lada'kwe
-  rotate: false
-  xy: 1021, 119
-  size: 102, 90
-  orig: 102, 90
-  offset: 0, 0
-  index: -1
-UnitIcons/Pitati
-  rotate: false
-  xy: 1264, 158
-  size: 105, 90
-  orig: 105, 90
-  offset: 0, 0
-  index: -1
-UnitIcons/Tolu-Batyr
-  rotate: false
-  xy: 212, 191
-  size: 137, 119
-  orig: 137, 119
-  offset: 0, 0
-  index: -1
-UnitIcons/Yodhaya
-  rotate: false
-  xy: 827, 910
-  size: 138, 120
-  orig: 138, 120
-  offset: 0, 0
-  index: -1
-UnitIcons/Zenata Cavalry
-  rotate: false
-  xy: 469, 134
-  size: 104, 90
-  orig: 104, 90
-  offset: 0, 0
-  index: -1
-WonderImages/The Great Library
-  rotate: false
-  xy: 4, 318
-  size: 200, 100
-  orig: 200, 100
-  offset: 0, 0
-  index: -1
-WonderImages/The Motherland Calls
-  rotate: false
-  xy: 212, 318
-  size: 200, 100
-  orig: 200, 100
-  offset: 0, 0
-  index: -1
-
-game2.png
-size: 2048, 256
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-BuildingIcons/pixil-frame-0(30)
-  rotate: false
-  xy: 612, 162
-  size: 90, 90
-  orig: 90, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Al Andalus
-  rotate: false
-  xy: 416, 162
-  size: 90, 90
-  orig: 90, 90
-  offset: 0, 0
-  index: -1
-NationIcons/Pueblo
-  rotate: false
-  xy: 514, 162
-  size: 90, 90
-  orig: 90, 90
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Carracio
   rotate: false
-  xy: 4, 4
+  xy: 1046, 532
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dervish Cavalry
   rotate: false
-  xy: 807, 187
+  xy: 1157, 439
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dervish Cavalry-1
   rotate: false
-  xy: 89, 9
+  xy: 762, 428
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dervish Cavalry-2
   rotate: false
-  xy: 892, 187
+  xy: 1242, 439
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Fyrd
+  rotate: false
+  xy: 1376, 522
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Fyrd-1
+  rotate: false
+  xy: 1479, 522
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Fyrd-2
+  rotate: false
+  xy: 483, 116
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/GGgoneviolencia
+  rotate: false
+  xy: 586, 116
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/GGgoneviolent
+  rotate: false
+  xy: 1376, 433
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Gajnal
   rotate: false
-  xy: 977, 173
+  xy: 1333, 79
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gajnal-1
   rotate: false
-  xy: 1062, 173
+  xy: 1788, 336
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gajnal-2
   rotate: false
-  xy: 1147, 173
+  xy: 1437, 159
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gajnal-attack-1
   rotate: false
-  xy: 1232, 173
+  xy: 1522, 149
   size: 77, 79
   orig: 77, 79
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Goum
   rotate: false
-  xy: 1317, 172
+  xy: 1418, 71
   size: 77, 80
   orig: 77, 80
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Guard
+  rotate: false
+  xy: 1479, 433
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Herald
+  rotate: false
+  xy: 483, 27
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Isienmwenro
+  rotate: false
+  xy: 586, 27
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Jahazi
   rotate: false
-  xy: 1716, 196
+  xy: 1977, 640
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi-1
   rotate: false
-  xy: 1788, 196
+  xy: 1974, 576
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Jahazi-2
   rotate: false
-  xy: 1860, 196
+  xy: 243, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Jazayerchiha
+  rotate: false
+  xy: 1479, 344
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Katipunan
+  rotate: false
+  xy: 689, 116
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lada'kwe
+  rotate: false
+  xy: 689, 27
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lada'kwe-1
+  rotate: false
+  xy: 1582, 423
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lada'kwe-2
+  rotate: false
+  xy: 1582, 334
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Myinsi
   rotate: false
-  xy: 174, 9
+  xy: 1503, 76
   size: 77, 65
   orig: 77, 65
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Peacekeeper
+  rotate: false
+  xy: 792, 116
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Peacekeeper-India
+  rotate: false
+  xy: 792, 116
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pitati
+  rotate: false
+  xy: 792, 27
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Pitati-1
   rotate: false
-  xy: 4, 171
+  xy: 895, 49
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pitati-2
   rotate: false
-  xy: 4, 82
+  xy: 1685, 423
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rifleman
   rotate: false
-  xy: 107, 171
+  xy: 1685, 334
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rifleman-1
   rotate: false
-  xy: 107, 82
+  xy: 1685, 245
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rifleman-2
   rotate: false
-  xy: 210, 171
+  xy: 1236, 255
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tolu-Batyr
   rotate: false
-  xy: 259, 4
+  xy: 1607, 158
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tolu-Batyr-1
   rotate: false
-  xy: 344, 4
+  xy: 1692, 167
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tolu-Batyr-2
   rotate: false
-  xy: 1402, 182
+  xy: 1607, 80
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
+TileSets/AbsoluteUnits/Units/Warrior-attack-1
+  rotate: false
+  xy: 1503, 8
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Warrior-attack-2
+  rotate: false
+  xy: 1571, 8
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Warrior-attack-3
+  rotate: false
+  xy: 1639, 12
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
 TileSets/AbsoluteUnits/Units/Yodhaya
   rotate: false
-  xy: 210, 82
+  xy: 1236, 166
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Yodhaya-1
   rotate: false
-  xy: 313, 171
+  xy: 1236, 344
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Yodhaya-2
   rotate: false
-  xy: 313, 82
+  xy: 1339, 344
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry
   rotate: false
-  xy: 429, 4
+  xy: 1692, 89
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry-1
   rotate: false
-  xy: 1487, 182
+  xy: 1777, 167
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Zenata Cavalry-2
   rotate: false
-  xy: 514, 4
+  xy: 1777, 89
   size: 77, 70
   orig: 77, 70
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Brazilwood Camp
   rotate: false
-  xy: 1572, 196
+  xy: 847, 437
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Extra Brazilwood Camp
   rotate: false
-  xy: 1644, 196
+  xy: 1977, 704
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Lake Victoria
   rotate: false
-  xy: 1932, 196
+  xy: 315, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Void
   rotate: false
-  xy: 807, 123
+  xy: 387, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
+UnitIcons/Al Sultanah
+  rotate: false
+  xy: 932, 530
+  size: 106, 90
+  orig: 106, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Axeman
+  rotate: false
+  xy: 1886, 896
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Bireme
+  rotate: false
+  xy: 1751, 640
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Canoe
+  rotate: false
+  xy: 1886, 768
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Dervish Cavalry
+  rotate: false
+  xy: 4, 464
+  size: 537, 552
+  orig: 537, 552
+  offset: 0, 0
+  index: -1
+UnitIcons/Fyrd
+  rotate: false
+  xy: 1024, 708
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Herald
+  rotate: false
+  xy: 1316, 709
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+UnitIcons/Isienmwenro
+  rotate: false
+  xy: 1461, 709
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+UnitIcons/Jahazi
+  rotate: false
+  xy: 932, 432
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Katipunero
+  rotate: false
+  xy: 1606, 708
+  size: 137, 120
+  orig: 137, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Lada'kwe
+  rotate: false
+  xy: 1486, 611
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
 UnitIcons/Myinsi
   rotate: false
-  xy: 710, 173
+  xy: 1236, 79
   size: 89, 79
   orig: 89, 79
+  offset: 0, 0
+  index: -1
+UnitIcons/Pitati
+  rotate: false
+  xy: 899, 236
+  size: 105, 90
+  orig: 105, 90
+  offset: 0, 0
+  index: -1
+UnitIcons/Tolu-Batyr
+  rotate: false
+  xy: 787, 501
+  size: 137, 119
+  orig: 137, 119
+  offset: 0, 0
+  index: -1
+UnitIcons/Yodhaya
+  rotate: false
+  xy: 1170, 708
+  size: 138, 120
+  orig: 138, 120
+  offset: 0, 0
+  index: -1
+UnitIcons/Zenata Cavalry
+  rotate: false
+  xy: 1124, 138
+  size: 104, 90
+  orig: 104, 90
+  offset: 0, 0
+  index: -1
+WonderImages/The Great Library
+  rotate: false
+  xy: 483, 313
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+WonderImages/The Motherland Calls
+  rotate: false
+  xy: 483, 205
+  size: 200, 100
+  orig: 200, 100
   offset: 0, 0
   index: -1
